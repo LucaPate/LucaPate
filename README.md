@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucaPate
-- 👀 I’m interested in Statistics and Machine Learning
+- 👀 I’m interested in Statistical Learning and Spatial Statistics.
 
 <!---
 LucaPate/LucaPate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
